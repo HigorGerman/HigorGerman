@@ -2,7 +2,7 @@
   
    # Olá, eu sou o Higor Germano! 👋
   
-  ### Desenvolvedor & Estudante de Sistemas de Informação
+  ### Desenvolvedor & Estudante de Sistemas de Informação🧑🏻‍💻
   
   ---
 
