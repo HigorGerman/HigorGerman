@@ -1,8 +1,6 @@
 <div align="center">
   
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MxZDJkN2NjMmUyYzI4OWQ0ZGNjOGI5ZGNjM2Q2ZGNjM2Q2ZGNjMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-  # Olá, eu sou o Higor Germano! 👋
+   # Olá, eu sou o Higor Germano! 👋
   
   ### Desenvolvedor & Estudante de Sistemas de Informação
   
