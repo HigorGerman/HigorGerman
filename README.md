@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
+  
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MxZDJkN2NjMmUyYzI4OWQ0ZGNjOGI5ZGNjM2Q2ZGNjM2Q2ZGNjMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-<!--
-**HigorGerman/HigorGerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Olá, eu sou o Higor Germano! 👋
+  
+  ### Desenvolvedor & Estudante de Sistemas de Informação
+  
+  ---
 
-Here are some ideas to get you started:
+  <p align="left">
+   Sou estudante do 6º termo na Unoeste e apaixonado por usar a tecnologia para resolver problemas reais. Tenho uma base sólida em lógica e POO, e estou sempre buscando expandir meus conhecimentos.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="left">
+  🔭 <b>Atualmente trabalhando em:</b> Projetos acadêmicos e pessoais Full Stack.<br>
+  🌱 <b>Aprendendo atualmente:</b> Aprofundando no ecossistema .NET (C#) e Arquitetura de Software.<br>
+  🎯 <b>Objetivo:</b> Oportunidade de estágio para aplicar conhecimentos em Java, C# e desenvolvimento web.<br>
+  ⚡ <b>Sobre mim:</b> Comprometido com a evolução contínua e trabalho em equipe.
+  </p>
+
+</div>
+
+---
+
+<div align="center"> 
+  <h3>🛠️ Tecnologias e Ferramentas</h3>
+  
+  <div style="display: inline_block">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    
+    <br>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    
+    <br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 Minhas Estatísticas</h3>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorGerman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorGerman&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+<div align="center"> 
+  <h3>📫 Vamos conversar?</h3>
+  
+  <a href="https://www.linkedin.com/in/higor-germano-0023592b7/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="mailto:higorgermano43@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/hiigorgermano/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
