@@ -36,17 +36,9 @@
 
 ---
 <div align="center">
-  <h3>🏆 Minhas Conquistas e Frequência</h3>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=HigorGerman&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HigorGerman&theme=dracula&hide_border=true" />
-  
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorGerman&layout=compact&theme=dracula&hide_border=true"/>
+  <h3>💻 Minhas Linguagens</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorGerman&layout=compact&theme=dracula" />
 </div>
-
 ---
 
 <div align="center"> 
