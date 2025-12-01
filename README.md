@@ -35,23 +35,7 @@
 </div>
 
 ---
-<div align="center">
-  <h3>💻 Minhas Principais Linguagens</h3>
-  <img src="https://progress-bar.dev/80/?title=C%23&style=plastic&color=239120&width=350&suffix=%" alt="C# ProgressBar" />
-  <br>
-  
-  <img src="https://progress-bar.dev/70/?title=Java&style=plastic&color=ED8B00&width=350&suffix=%" alt="Java ProgressBar" />
-  <br>
-  
-  <img src="https://progress-bar.dev/90/?title=HTML%2FCSS&style=plastic&color=E34F26&width=350&suffix=%" alt="HTML ProgressBar" />
-  <br>
-  
-  <img src="https://progress-bar.dev/60/?title=SQL&style=plastic&color=005C84&width=350&suffix=%" alt="SQL ProgressBar" />
-  <br>
-  
-  <img src="https://progress-bar.dev/50/?title=C%2FC%2B%2B&style=plastic&color=00599C&width=350&suffix=%" alt="C++ ProgressBar" />
-  
-</div>
+
 ---
 
 <div align="center"> 
