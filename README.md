@@ -7,7 +7,7 @@
   ---
 
   <p align="left">
-   Sou estudante do 6º termo na Unoeste e apaixonado por usar a tecnologia para resolver problemas reais. Tenho uma base sólida em lógica e POO, e estou sempre buscando expandir meus conhecimentos.
+   Sou estudante do 7º termo na Unoeste e apaixonado por usar a tecnologia para resolver problemas reais. Tenho uma base sólida em lógica e POO, e estou sempre buscando expandir meus conhecimentos.
   </p>
 
   <p align="left">
